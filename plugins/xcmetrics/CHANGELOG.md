@@ -1,5 +1,17 @@
 # @backstage/plugin-xcmetrics
 
+## 0.2.31-next.0
+
+### Patch Changes
+
+- 43afded227: Updated recharts to v2.0.0 and fixed typing issues
+- dcf9e728de: Removed an unused and hidden build details route.
+- Updated dependencies
+  - @backstage/core-components@0.12.0-next.0
+  - @backstage/core-plugin-api@1.0.8-next.0
+  - @backstage/errors@1.1.3-next.0
+  - @backstage/theme@0.2.16
+
 ## 0.2.30
 
 ### Patch Changes

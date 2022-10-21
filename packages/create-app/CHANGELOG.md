@@ -1,5 +1,13 @@
 # @backstage/create-app
 
+## 0.4.33-next.0
+
+### Patch Changes
+
+- 4091c73e68: Updated `@swc/core` to `v1.3.9` which fixes a `.tsx` parser bug. You may want to run `yarn backstage-cli versions:bump` to get on latest version including the CLI itself.
+- Updated dependencies
+  - @backstage/cli-common@0.1.10
+
 ## 0.4.32
 
 ### Patch Changes

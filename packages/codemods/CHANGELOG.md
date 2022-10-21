@@ -1,5 +1,12 @@
 # @backstage/codemods
 
+## 0.1.41-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/cli-common@0.1.10
+
 ## 0.1.40
 
 ### Patch Changes

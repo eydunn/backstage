@@ -1,5 +1,19 @@
 # @backstage/core-app-api
 
+## 1.2.0-next.0
+
+### Minor Changes
+
+- 127fcad26d: Deprecated the `homepage` config as the component that used it - `HomepageTimer` - has been removed and replaced by the `HeaderWorldClock` in the home plugin
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-plugin-api@1.0.8-next.0
+  - @backstage/config@1.0.4-next.0
+  - @backstage/types@1.0.0
+  - @backstage/version-bridge@1.0.1
+
 ## 1.1.1
 
 ### Patch Changes
